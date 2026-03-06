@@ -1,6 +1,6 @@
 <!-- @var title: Local Variable Test -->
 <!-- @var author: Test User -->
-<!-- @var date: 2025-09-10 -->
+<!-- @var date: 2026-03-07 -->
 <!-- @var version: 1.0.0 -->
 
 # {{title}}
