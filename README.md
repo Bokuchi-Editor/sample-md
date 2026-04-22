@@ -1,42 +1,52 @@
 # Bokuchi Editor Sample Collection
 
-Sample files for the [Bokuchi Editor](https://github.com/Bokuchi-Editor/bokuchi).
+Sample Markdown files for the [Bokuchi Editor](https://github.com/Bokuchi-Editor/bokuchi) — a free, offline Markdown editor for Windows, macOS, and Linux.
 
 ## Directory Structure
 
 ```
-├── en/          # English sample files
-├── ja/          # Japanese sample files
+├── en/          # English
+├── ja/          # Japanese (日本語)
+├── zh-CN/       # Chinese, Simplified (简体中文)
+├── zh-Hant/     # Chinese, Traditional (繁體中文)
+├── id/          # Indonesian (Bahasa Indonesia)
+├── vi/          # Vietnamese (Tiếng Việt)
+├── images/      # Shared images (referenced by marp.md etc.)
 └── README.md
 ```
+
+Each language directory contains the same set of samples, translated.
 
 ## Sample Files
 
 | File | Description |
 |------|-------------|
-| `checkbox.md` | Interactive checkboxes with editor sync |
-| `var.md` | Local/global variables and templates |
 | `guide.md` | Editor features guide (tabs, zoom, themes, state persistence) |
-| `project-template.md` | Project spec template using variables and checkboxes |
-| `meeting-minutes.md` | Meeting minutes template with action tracking |
+| `var.md` | Local/global variables and templates |
+| `checkbox.md` | Interactive checkboxes with editor sync |
 | `code-syntax.md` | Syntax highlighting for various languages |
 | `KaTeX.md` | Math rendering with KaTeX |
 | `mermaid.md` | Diagram rendering with Mermaid |
+| `marp.md` | Marp presentation slides |
+| `project-template.md` | Project spec template using variables and checkboxes |
+| `meeting-minutes.md` | Meeting minutes template with action tracking |
+| `fushimi-inari-blog.md` | Blog-style sample with images and checklists |
+| `large.md` | Large document for performance/scroll testing (en only) |
 
-## Key Features
+## Key Features Demonstrated
 
 - **Variables** — Define local/global variables for templating
 - **Checkboxes** — Interactive in preview, auto-synced with editor
-- **Tabs** — Multi-file editing with state persistence
-- **Zoom / Themes** — Adjustable zoom, dark/light mode
+- **Tabs / Zoom / Themes** — Multi-file editing, adjustable zoom, dark/light mode
 - **KaTeX / Mermaid** — Math and diagram rendering
+- **Marp** — Presentation slides from Markdown
 
 ## How to Use
 
 1. Launch Bokuchi Editor
-2. Open sample files
+2. Open any sample file
 3. Set variables if needed
-4. Check preview and customize
+4. Check the preview and customize
 
 ## Tips
 
@@ -52,3 +62,5 @@ Free to use.
 
 - [Bokuchi GitHub](https://github.com/Bokuchi-Editor/bokuchi)
 - [Bokuchi Releases](https://github.com/Bokuchi-Editor/bokuchi/releases)
+- [Official Site](https://bokuchi.com)
+- [User Guide](https://doc.bokuchi.com/)
