@@ -31,6 +31,7 @@ Each language directory contains the same set of samples, translated.
 | `project-template.md` | Project spec template using variables and checkboxes |
 | `meeting-minutes.md` | Meeting minutes template with action tracking |
 | `fushimi-inari-blog.md` | Blog-style sample with images and checklists |
+| `table.md` | Compares the three Table Layout (Preview) modes side by side |
 | `large.md` | Large document for performance/scroll testing (en only) |
 
 ## Key Features Demonstrated
