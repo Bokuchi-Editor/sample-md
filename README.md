@@ -27,6 +27,7 @@ Each language directory contains the same set of samples, translated.
 | `code-syntax.md` | Syntax highlighting for various languages |
 | `KaTeX.md` | Math rendering with KaTeX |
 | `mermaid.md` | Diagram rendering with Mermaid |
+| `plantuml.md` | Diagram rendering with PlantUML (class, sequence, activity, mind map) |
 | `marp.md` | Marp presentation slides |
 | `project-template.md` | Project spec template using variables and checkboxes |
 | `meeting-minutes.md` | Meeting minutes template with action tracking |
@@ -39,7 +40,7 @@ Each language directory contains the same set of samples, translated.
 - **Variables** — Define local/global variables for templating
 - **Checkboxes** — Interactive in preview, auto-synced with editor
 - **Tabs / Zoom / Themes** — Multi-file editing, adjustable zoom, dark/light mode
-- **KaTeX / Mermaid** — Math and diagram rendering
+- **KaTeX / Mermaid / PlantUML** — Math and diagram rendering
 - **Marp** — Presentation slides from Markdown
 
 ## How to Use
