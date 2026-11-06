@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 header: 'Bokuchi Editor'
-footer: 'A free, offline Markdown editor'
+footer: 'A free, lightweight, offline Markdown editor'
 ---
 
 <!-- _class: lead -->
@@ -15,7 +15,7 @@ footer: 'A free, offline Markdown editor'
 
 # Bokuchi Editor
 
-### A free, offline Markdown editor
+### A free, lightweight, offline Markdown editor
 ### for Windows, macOS, and Linux
 
 ---

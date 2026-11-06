@@ -45,3 +45,25 @@ formula = "$x^2 + y^2 = r^2$"
 ```
 
 Inline code also safe: `$not_math$`
+
+## Accents and Vectors
+
+Bold vectors with accents, such as $\tilde{\mathbf{x}} = \mathbf{x} - \bar{x}\mathbf{1}$, $\tilde{\mathbf{y}} = \mathbf{y} - \bar{y}\mathbf{1}$.
+
+## Absolute Values and Tables
+
+Absolute values use vertical bars: $d(x, y) = |x - y|$
+
+Math can also appear inside table cells:
+
+| Formula | Description |
+| --- | --- |
+| $d(x, y) = |x - y|$ | Distance of |
+
+| Formula | Description |
+| :--- | :--- |
+| $d(x, y) = \|x - y\|$ | Definition of distance |
+
+|  Calculation  |   Formula    |
+| :-----------: | :----------: |
+|      test     |  $\sqrt{1}$  |

@@ -45,3 +45,25 @@ formula = "$x^2 + y^2 = r^2$"
 ```
 
 Kode inline juga aman: `$not_math$`
+
+## Aksen dan Vektor
+
+Vektor tebal dengan aksen, seperti $\tilde{\mathbf{x}} = \mathbf{x} - \bar{x}\mathbf{1}$, $\tilde{\mathbf{y}} = \mathbf{y} - \bar{y}\mathbf{1}$.
+
+## Nilai Mutlak dan Tabel
+
+Nilai mutlak menggunakan garis vertikal: $d(x, y) = |x - y|$
+
+Matematika juga dapat muncul di dalam sel tabel:
+
+| Rumus | Deskripsi |
+| --- | --- |
+| $d(x, y) = |x - y|$ | Jarak |
+
+| Rumus | Deskripsi |
+| :--- | :--- |
+| $d(x, y) = \|x - y\|$ | Definisi jarak |
+
+| Perhitungan |    Rumus     |
+| :---------: | :----------: |
+|     tes     |  $\sqrt{1}$  |

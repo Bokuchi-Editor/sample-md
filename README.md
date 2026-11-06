@@ -33,6 +33,10 @@ Each language directory contains the same set of samples, translated.
 | `meeting-minutes.md` | Meeting minutes template with action tracking |
 | `fushimi-inari-blog.md` | Blog-style sample with images and checklists |
 | `table.md` | Compares the three Table Layout (Preview) modes side by side |
+| `gfm.md` | GFM syntax checklist covering every construct in the spec plus GitHub extras (en only) |
+| `gfm-alerts.md` | GitHub alerts checklist: the five types, body content, marker variations and nesting (en only) |
+| `rtl.md` | Preview text direction (Auto / LTR / RTL) with Arabic, Hebrew and Persian content (en only) |
+| `rtl-arabic.md` | Arabic-first document that Auto renders right-to-left (en only) |
 | `large.md` | Large document for performance/scroll testing (en only) |
 
 ## Key Features Demonstrated

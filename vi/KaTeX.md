@@ -45,3 +45,25 @@ formula = "$x^2 + y^2 = r^2$"
 ```
 
 Mã nội dòng cũng an toàn: `$not_math$`
+
+## Dấu Mũ và Vectơ
+
+Vectơ in đậm kèm dấu mũ, chẳng hạn $\tilde{\mathbf{x}} = \mathbf{x} - \bar{x}\mathbf{1}$, $\tilde{\mathbf{y}} = \mathbf{y} - \bar{y}\mathbf{1}$.
+
+## Giá Trị Tuyệt Đối và Bảng
+
+Giá trị tuyệt đối dùng dấu gạch đứng: $d(x, y) = |x - y|$
+
+Toán học cũng có thể xuất hiện trong ô của bảng:
+
+| Công thức | Mô tả |
+| --- | --- |
+| $d(x, y) = |x - y|$ | Khoảng cách |
+
+| Công thức | Mô tả |
+| :--- | :--- |
+| $d(x, y) = \|x - y\|$ | Định nghĩa khoảng cách |
+
+|  Phép tính  |  Công thức   |
+| :---------: | :----------: |
+|    thử    |  $\sqrt{1}$  |
